@@ -5,10 +5,10 @@
 [zcash/zcash](https://github.com/zcash/zcash)
 
 ## Zcash API
-[Zcash CLI API](https://zcash-rpc.github.io/)
+[Zcash RPC API](https://zcash-rpc.github.io/)
 
 ## Zcash Explorer
-[zcha.in](https://explorer.zcha.in/)
+[zcha.in](https://explorer.zcha.in/)  
 [zecmate.com](https://explorer.zecmate.com/)
 
 ## Build method
